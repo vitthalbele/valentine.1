@@ -2,5 +2,6 @@
 
 This is a small Valentine proposal web page made using HTML, CSS and JavaScript.
 
-## Open File
-[Click here to open](file:///D:/Studies/valentine.html)
+## Project File Link
+file:///D:/Studies/valentine.html
+
